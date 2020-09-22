@@ -77,3 +77,24 @@ J:\Nueva carpeta\Nuevo Respaldo\Visual Studio 2017\Projects\aerolinea\aerolinea\
 J:\Nueva carpeta\Nuevo Respaldo\Visual Studio 2017\Projects\aerolinea\aerolinea\obj\Debug\aerolinea.csproj.CoreCompileInputs.cache
 J:\Nueva carpeta\Nuevo Respaldo\Visual Studio 2017\Projects\aerolinea\aerolinea\obj\Debug\aerolinea.exe
 J:\Nueva carpeta\Nuevo Respaldo\Visual Studio 2017\Projects\aerolinea\aerolinea\obj\Debug\aerolinea.pdb
+F:\C#\aerolinea\aerolinea\bin\Debug\aerolinea.mdb
+F:\C#\aerolinea\aerolinea\bin\Debug\aerolinea.exe.config
+F:\C#\aerolinea\aerolinea\bin\Debug\aerolinea.exe
+F:\C#\aerolinea\aerolinea\bin\Debug\aerolinea.pdb
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.csprojAssemblyReference.cache
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form1.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form10.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form2.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form3.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form4.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Inicio.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Login.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form7.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form8.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Form9.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Properties.Resources.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.Splash.resources
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.csproj.GenerateResource.cache
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.csproj.CoreCompileInputs.cache
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.exe
+F:\C#\aerolinea\aerolinea\obj\Debug\aerolinea.pdb
